@@ -1,0 +1,22 @@
+{
+  "name": "Bani Sholih",
+  "age": 21,
+  "address": "Jl. Patriot II Pejuang Jaya Bekasi",
+  "isMarried": false,
+  "hobbies": ["Ngoding", "Bulutangkis"],
+  "list_school": [
+    {
+      "name" : "MAN 8 Jakarta Timur",
+      "year_in" : 2013,
+      "year_out" : 2016,
+      "major" : "Universitas Muhammadiyah Jakarta"
+    }
+  ],
+  "skills" : [
+    {    
+      "skill_name" : "Ngoding",
+      "level" : "Advanced"
+    }
+  ],
+  "interest_in_coding" : true
+}
